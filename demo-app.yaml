@@ -33,6 +33,8 @@ metadata:
 spec:
   ports:
   - nodePort: 31001
+  
+  # test test 
     targetPort: 3000
     port: 3000
     protocol: TCP
